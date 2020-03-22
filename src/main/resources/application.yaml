@@ -1,3 +1,4 @@
 spring:
   profiles:
-    active: user-pass-auth
+    active: user-pass-auth #user-pass-auth, jdbc-auth
+
